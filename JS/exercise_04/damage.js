@@ -1,7 +1,7 @@
-const atacante = prompt ("Qual nome do personamgem atacante?")
-const poderDeAtaque = parseFloat (prompt("Qual é o seu pode de atack?"))
+const atacante = prompt ("Qual nome do Herói atacante?")
+const poderDeAtaque = parseFloat (prompt("Qual é o seu poder de atack?"))
 
-const defensor = prompt ("Qual é o nome do adversario defensor?")
+const defensor = prompt ("Qual é o nome do demonio defensor?")
 let pontosDeVida = parseFloat( prompt ("Quantos pontos de vida ele possui?"))
 const poderDeDefesa = parseFloat(prompt("Qual é o seu poder de defesa?"))
 const possuiEscudo = prompt("Ele possui Escudo? (Sim/Não)")
