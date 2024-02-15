@@ -1,2 +1,3 @@
 # Estudos 
-HTML,CSS,JS,TS,SASS, BOOTSTRAP, REACT, NODE JS, MONGO DB E BANCO DE DADOS
+
+html, css, js, ts, sass, bootstrap
