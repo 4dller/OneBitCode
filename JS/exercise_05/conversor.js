@@ -1,4 +1,4 @@
-const medida = parseFloat( prompt ("Insira uma medida em metros:"))
+const medida = parseFloat(prompt("Insira uma medida em metros:"))
 
 const unidade = prompt(
     "Para qual unidade de medida deseja converter?" +

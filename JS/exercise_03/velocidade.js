@@ -1,8 +1,13 @@
+
+// Criação de 4 variaveis correspondentes a dois veiculos e suas respectivas velocidades:
+
 const car1 = prompt ("Informe o nome do primeiro veiculo")
 const velocidade1 = parseFloat (prompt ("Informe a velocidade do primeiro veiculo:"))
 
 const car2 = prompt ("Informe o nome do segundo veiculo")
 const velocidade2 = parseFloat (prompt ("Informe a velocidade do segundo veiculo:"))
+
+//Estrutura IF, usada para fazer a verificação/comparação entre os veiculos:
 
 if (velocidade1 > velocidade2) {
     alert(car1 + " é mais rápido do que " + car2)
