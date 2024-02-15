@@ -1,0 +1,11 @@
+Estudo em:
+HTML - 100%
+CSS - 100%
+JS  -  12%
+TS  -
+SASS  -   
+BOOTSTRAP  -
+REACT  -
+NODE JS  -
+MONGO DB  -
+BANCO DE DADOS  -
