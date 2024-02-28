@@ -1,7 +1,7 @@
 const arr = ["Frodo", "Sam", "Merry", "Pippin", "Gandalf", "Aragorn", "Legolas", "Gimli"]
 
 
-Adicionando Elementos
+Adicionando Elementos 
 // push: Adiciona um elemento no final do array e devolve o novo tamanho do array
 let tamanho = arr.push("Boromir")
 console.log(arr)
