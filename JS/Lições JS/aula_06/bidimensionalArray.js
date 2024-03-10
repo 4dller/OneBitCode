@@ -1,4 +1,4 @@
-Arrays dentro de arrays
+//Arrays dentro de arrays
 
 // Arrays podem receber qualquer tipo da dado, inclusive outros arrays
 const arr = [
@@ -11,7 +11,7 @@ const arr = [
   []
 ]
 
-Arrays podem ter várias “dimensões”
+//Arrays podem ter várias “dimensões”
 // Cada par de colchetes referencia um nível mais interno do array
 console.log(arr[0])       // Saída: '1º Nível'
 console.log(arr[1])       // Saída: [ '2º nível', 42, true ]
@@ -21,7 +21,7 @@ console.log(arr[2])       // Saída: [ [ '3º nível, 1º item', 'Olá, mundo!' 
 console.log(arr[2][0])    // Saída: [ '3º nível, 1º item', 'Olá, mundo!' ]
 console.log(arr[2][1][1]) // Saída: 'Oi, mundo!'
 
-Matrizes (arrays com duas dimensões)
+//Matrizes (arrays com duas dimensões)
 // Podemos ver claramente a estrutura de uma matriz em uma tabela
 const matriz = [
     ["l1, c1", "l1, c2", "l1, c3", "l1, c4"],
@@ -30,7 +30,7 @@ const matriz = [
   ]
   console.table(matriz)
 
-  Iterando sobre arrays bidimensionais (ou de qualquer dimensão)
+  //Iterando sobre arrays bidimensionais (ou de qualquer dimensão)
   // Podemos usar vários níveis de laços FOR para iterar facilmente pela matriz
 for (let i = 0; i < matriz.length; i++) {
     for (let j = 0; j < matriz[i].length; j++) {
