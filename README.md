@@ -1,20 +1,22 @@
-# Estudos 
+# Estudos de Desenvolvimento Web
 
-HTML {
-- Hello world! Minha primeira pagina html.
-- Títulos, cabeçalho e parágrafos
-- Comentários
-- Imagens e vídeos
-- Quebras de linha
-- Div e spans
-- URL, ids, links
-- Links externos
-- Listas
-- Tabelas
-- Formulários
-- Tags semânticas
-- WAI ARIA  
-}
+Este repositório contém materiais de estudo sobre desenvolvimento web, abrangendo HTML, CSS e JavaScript.
+
+## HTML
+
+- **Hello World!**: Primeira página HTML.
+- **Títulos, Cabeçalhos e Parágrafos**: Estrutura básica de texto.
+- **Comentários**: Comentários em HTML.
+- **Imagens e Vídeos**: Inserção de mídia.
+- **Quebras de Linha**: `<br>` para quebras de linha.
+- **Div e Spans**: Elementos de divisão e agrupamento.
+- **URL, IDs, Links**: Navegação e identificação de elementos.
+- **Links Externos**: Referências externas.
+- **Listas**: Ordenadas e não ordenadas.
+- **Tabelas**: Organização tabular de dados.
+- **Formulários**: Coleta de informações do usuário.
+- **Tags Semânticas**: Elementos para estruturação semântica.
+- **WAI-ARIA**: Acessibilidade Web.
 
 CSS {
 - Cores
