@@ -18,19 +18,19 @@ Este repositório contém materiais de estudo sobre desenvolvimento web, abrange
 - **Tags Semânticas**: Elementos para estruturação semântica.
 - **WAI-ARIA**: Acessibilidade Web.
 
-CSS {
-- Cores
-- Background e Bordas
-- Box Model: Margin, Padding
-- Displays: None, Inline, Block e Inline-block
-- Seletores
-- Textos e Fontes
-- Unidades de medidas: em, px, pt, cm, in…
-- Herança
-- Especificidades
-- Seletores avançados
-- Variaveis
-} 
+## CSS
+
+- **Cores**: Manipulação de cores.
+- **Background e Bordas**: Estilização de fundo e bordas.
+- **Box Model**: Margin, Padding.
+- **Displays**: None, Inline, Block e Inline-block.
+- **Seletores**: Identificação e estilização de elementos.
+- **Textos e Fontes**: Estilização de texto e fontes.
+- **Unidades de Medidas**: em, px, pt, cm, in...
+- **Herança**: Propagação de estilos.
+- **Especificidades**: Resolução de conflitos de estilos.
+- **Seletores Avançados**: Seleção específica de elementos.
+- **Variáveis**: Uso de variáveis para estilos reutilizáveis.
  
  js, ts, sass, bootstrap
 
