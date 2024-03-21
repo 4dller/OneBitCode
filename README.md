@@ -32,6 +32,8 @@ Este repositório contém materiais de estudo sobre desenvolvimento web, abrange
 - **Seletores Avançados**: Seleção específica de elementos.
 - **Variáveis**: Uso de variáveis para estilos reutilizáveis.
  
- js, ts, sass, bootstrap
+## JavaScript
 
-testing..
+- *Em breve...*
+
+Este repositório é uma fonte de referência para iniciantes e intermediários no desenvolvimento web. Sinta-se à vontade para explorar e contribuir!
